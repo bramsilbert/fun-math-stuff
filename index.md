@@ -1,5 +1,5 @@
 ---
-title: fun math stuff
+title: Smells Like Content
 ---
 
-hermite pade approximation and pure birth processes
+Welcome to all the stuff I may or may not post here.
