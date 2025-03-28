@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: fun math stuff
 ---
 
+hermite pade approximation and pure birth processes
